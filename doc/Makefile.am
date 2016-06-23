@@ -15,7 +15,6 @@ ERL_SRCS = $(top_srcdir)/src/core/*.erl					\
 HTML_FILES = index.html							\
 	     modules-frame.html						\
 	     overview-summary.html					\
-	     packages-frame.html					\
 	     exmpp.html							\
 	     exmpp_caps.html					\
 	     exmpp_client_binding.html					\
